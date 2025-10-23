@@ -1,2 +1,2 @@
 # sia
-Simplified Intelligence Architecture — A unified framework simplifying Python frameworks
+Simplified Integrated Architecture — A unified framework simplifying Python frameworks
